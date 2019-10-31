@@ -2,5 +2,7 @@
 
 void main()
 {
-    printf("hello world");
+    int x;
+    printf("Enter a number: ");
+    scanf("%d", &x);
 }
